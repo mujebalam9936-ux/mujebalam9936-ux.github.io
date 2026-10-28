@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mujebalam9936-ux.github.io/sitemap.xml
